@@ -23,7 +23,7 @@ Soy un desarrollador full-stack Junior advanced con +800 horas recibido del boot
 
 
 ## Preguntas   
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 Actualmente estoy trabajando en el desarrollo de mis habilidades y en mantener una vida productiva  
   
@@ -37,11 +37,7 @@ Soy un desarrollador full-stack Junior advanced con +800 horas recibido del boot
 - ⚡ Dato curioso sobre mi soy una persona con sesgos e ideologías poco ortodoxas  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+</td><td valign="top" width="100%">
 
 
 
