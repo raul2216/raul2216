@@ -14,7 +14,8 @@
 
 
 
-### Glad to see you here!  
+### ¡Me alegro de verte aquí!
+  
 Soy un desarrollador full-stack Junior advanced con +800 horas recibido del bootcamp de Henry, ademas soy estudiante de el Servicio de Aprendizaje (SENA) en la carrera de Analisis y desarrollo de software, aunque cuento con habilidades técnicas y experiencia en campos Frontend y Backend, siento una ligera conexión extra con el Backend, estoy constantemente conectado y actualizándome con cosas relacionadas al mundo IT y en general, soy un apasionado estudiante autodidacta de cualquier tema que sea de mi agrado y/o me motive a mejorar  
   
 
