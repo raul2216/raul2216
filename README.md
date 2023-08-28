@@ -7,13 +7,13 @@
 
 - 👯 Estoy buscando colaborar en **nuevos proyectos y equipos donde se tenga en cuenta el valor humano**
 
-- 👨‍💻 Todos mis proyectos están [disponibles en el apartado de repositorios](disponibles en el apartado de repositorios)
-
-- 📝 Escribo regularmente artículos sobre [relatos, cuentos e historias](relatos, cuentos e historias)
+- 👨‍💻 Todos mis proyectos están disponibles en el apartado de repositorios
+- 
+- 📝 Escribo regularmente artículos sobre relatos, cuentos e historias
 
 - 💬 Pregúntame sobre **cualquier duda que tengas, si no la se responder, investigare hasta saberlo**
 
-- 📫 Por donde puedo contactarte: **puedes contactarme por mi Gmail raulpcq22@gmail.com o mi numero (+57) 322 600 4703**
+- 📫 **puedes contactarme por mi Gmail raulpcq22@gmail.com o mi numero (+57) 322 600 4703**
 
 - ⚡ Dato curioso sobre mi **soy una persona con sesgos e ideologías poco ortodoxas**
 
