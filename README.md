@@ -22,7 +22,7 @@ Soy un desarrollador full-stack Junior advanced con +800 horas recibido del boot
 <br/>  
 
 
-## Rapidfire  
+## Preguntas   
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Actualmente estoy trabajando en el desarrollo de mis habilidades y en mantener una vida productiva  
@@ -39,9 +39,7 @@ Soy un desarrollador full-stack Junior advanced con +800 horas recibido del boot
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
 
 
 </td></tr></table>  
