@@ -37,7 +37,12 @@ Soy un desarrollador full-stack Junior advanced con +800 horas recibido del boot
 - ⚡ Dato curioso sobre mi soy una persona con sesgos e ideologías poco ortodoxas  
 
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+
 
 
 
